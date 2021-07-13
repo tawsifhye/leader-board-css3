@@ -3,6 +3,8 @@
 /* common style */
 
 body {
+    margin: 0;
+    margin-top: 20px;
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
 
