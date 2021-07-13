@@ -204,11 +204,17 @@ hr {
     Media quaries 
  ------------------*/
 
+/* small devices */
 @media only screen and (max-width: 688px) {
     .container {
         width: 100%;
-        padding: 0;
     }
+
+    .nav-main {}
+
+    .logo {}
+
+    .nav-ul {}
 
     .players,
     .blogs,
@@ -238,6 +244,8 @@ hr {
     .container {
         width: 100%;
     }
+
+    .nav-main {}
 
     .players,
     .courses {
